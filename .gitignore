@@ -1,0 +1,8 @@
+migrations/
+__pycache__/
+bincom_test.sql
+page.html
+test.sql
+test1.sql
+venv/
+page.html
