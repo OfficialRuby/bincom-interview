@@ -6,3 +6,4 @@ test.sql
 testl.sql
 venv/
 page.html
+deploy.conf
